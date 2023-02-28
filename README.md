@@ -1,10 +1,14 @@
 # CIS197HTM Labs
 
+---
+
 ### 1. List your name, course title, and course term:
 
-`enter your name`
-CIS197HTM Web Authoring: HTML5 and CSS3
-`enter current term`
+- `enter your name`
+- CIS197HTM Web Authoring: HTML5 and CSS3
+- `enter current term`
+
+---
 
 ### 2. What is the purpose of this repo?
 
@@ -15,7 +19,9 @@ When students are ready to submit their work,
 they will add files to the corresponding module's
 correct assignment folder.
 
+---
+
 ### 3. List your technology stack:
 
--HTML5
--CSS3
+- HTML5
+- CSS3
