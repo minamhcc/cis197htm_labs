@@ -1,7 +1,5 @@
 # CIS197HTM Labs
 
----
-
 ### 1. List your name, course title, and course term:
 
 - `enter your name`
