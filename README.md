@@ -2,9 +2,9 @@
 
 ### 1. List your name, course title, and course term:
 
-- `enter your name`
+- Mina Vu
 - CIS197HTM Web Authoring: HTML5 and CSS3
-- `enter current term`
+- Spring 2023
 
 ---
 
